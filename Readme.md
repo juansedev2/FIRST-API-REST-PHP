@@ -20,5 +20,7 @@ Then, go to the doc directory and take the sql script, inser into the SGBD, that
 php -S localhost:3000
 ```
 
-And you can see the code for watch the Routes in: src/router/Api.php
+And you can see the code for watch the Routes in: src/router/Api.php.
+
+**Use a client to test the API with PostMan or Thunder Client of Visual Studio Code Extension**
 **End**
